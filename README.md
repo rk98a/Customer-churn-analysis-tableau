@@ -3,11 +3,10 @@
  
  📊 Customer Churn Analysis Dashboard
 
-Hi! 👋
+
 This is one of my learning projects where I explored *customer churn analysis* using Tableau.
 
-The goal of this project was simple:
-👉 Understand why customers leave and how businesses can reduce churn.
+The goal of this project was simple:     Understand why customers leave and how businesses can reduce churn.
 
 
 
@@ -30,16 +29,16 @@ I worked with a telecom dataset and built an interactive dashboard to answer que
 
 The dashboard includes:
 
-* *Churn Overview* → Shows overall churn percentage
-* *Churn by Contract Type* → Helps identify risky contract plans
-* *Churn by Internet Service* → Shows which service has higher churn
-* *Filters* → To explore data interactively
+* Churn Overview* → Shows overall churn percentage
+* Churn by Contract Type* → Helps identify risky contract plans
+* Churn by Internet Service* → Shows which service has higher churn
+* Filters* → To explore data interactively
 
  🔍 Key Insights I Found
 
-* Customers with *month-to-month contracts* have the highest churn
-* *Fiber optic users* tend to churn more compared to others
-* Customers with *long-term contracts (1–2 years)* are more stable
+* Customers with month-to-month contracts* have the highest churn
+* Fiber optic users* tend to churn more compared to others
+* Customers with long-term contracts (1–2 years)* are more stable
 
 
  What I Learned
